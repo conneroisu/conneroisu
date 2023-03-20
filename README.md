@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conneroisu
 - 👀 I’m interested in ... AI, Machine Learning, Electrical Engineering, HPC, GPU Programming
-- 🌱 I’m currently learning ... NEOVIM and Pyscript
+- 🌱 I’m currently learning ... Advanced Circuit Design and Neovim Github Issues Handling
 - 💞️ I’m looking to collaborate on ... Anything Innovative and Interesting
 - 📫 How to reach me ...Probably email is the best: conneroisu@outlook.com
 - 🫀obsidian md
