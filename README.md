@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conneroisu
 - 👀 I’m interested in ... Prompt Chaining AGI, Machine Learning, Electrical Engineering, HPC, GPU Programming
-- 🌱 I’m currently learning ... Advanced Circuit Design and Neovim Github Issues Handling
+- 🌱 I’m currently learning ... Advanced Circuit Design and Neovim Dap Testing
 - 💞️ I’m looking to collaborate on ... Anything Innovative and Interesting
 - 📫 How to reach me ...Probably email is the best: conneroisu@outlook.com
 
