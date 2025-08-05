@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @conneroisu
 - 👀 I’m interested in ... Prompt Chaining, attempts at AGI, Machine Learning, Electrical Engineering, HPC, GPU Programming
-- 🌱 I’m currently learning ... Advanced Digital Circuit Design and Neovim Dap Debugging
+- 🌱 I’m currently learning ... Advanced Digital Circuit Design in high frequency domains and environments
 - 💞️ I’m looking to collaborate on ... Anything Innovative and Interesting
 - 📫 How to reach me ...Probably email is the best: conneroisu@outlook.com
